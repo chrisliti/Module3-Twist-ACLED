@@ -1,0 +1,13 @@
+geopandas
+pandas
+matplotlib
+plotly
+seaborn
+requests
+spacy
+networkx
+tqdm
+beautifulsoup4
+streamlit
+boto3
+pyvis
