@@ -11,3 +11,4 @@ beautifulsoup4
 streamlit
 boto3
 pyvis
+en_core_web_sm
