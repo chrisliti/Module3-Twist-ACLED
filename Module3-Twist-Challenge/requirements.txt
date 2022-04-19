@@ -11,4 +11,3 @@ beautifulsoup4
 streamlit
 boto3
 pyvis
-python3 -m spacy download en_core_web_sm
