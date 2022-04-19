@@ -1,4 +1,5 @@
 
+python -m spacy download en_core_web_sm
 import pandas as pd
 import matplotlib.pyplot as plt
 import time
