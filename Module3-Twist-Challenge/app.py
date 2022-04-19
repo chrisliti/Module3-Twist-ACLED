@@ -17,7 +17,7 @@ import bs4
 import requests
 import spacy
 from spacy import displacy
-python3 -m spacy download en_core_web_sm
+
 
 nlp = spacy.load('en_core_web_sm')
 
