@@ -1,5 +1,4 @@
 
-python -m spacy download en_core_web_sm
 import pandas as pd
 import matplotlib.pyplot as plt
 import time
@@ -18,7 +17,9 @@ import bs4
 import requests
 import spacy
 from spacy import displacy
-nlp = spacy.load('en_core_web_sm')
+import en_core_web_sm
+
+nlp = en_core_web_sm.load()
 
 from spacy.matcher import Matcher 
 from spacy.tokens import Span 
