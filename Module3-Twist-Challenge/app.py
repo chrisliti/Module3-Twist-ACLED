@@ -17,9 +17,9 @@ import bs4
 import requests
 import spacy
 from spacy import displacy
-import en_core_web_sm
+python3 -m spacy download en_core_web_sm
 
-nlp = en_core_web_sm.load()
+nlp = spacy.load('en_core_web_sm')
 
 from spacy.matcher import Matcher 
 from spacy.tokens import Span 
