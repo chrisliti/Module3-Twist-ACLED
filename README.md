@@ -7,7 +7,7 @@ This project focuses on analysis of ACLED (Armed Conflict Location Events Data P
 
 **NB**: Reasoning behind creating 2 applications rather than 1, was to improve latency and time taken to reload the interactive independent dashboard sections. An accompanying video for the web app demos can be found on the Google drive [here](https://drive.google.com/drive/folders/1Wb351y-EaWjTnjRCOojVtcNHE4CiUY2e).
 
-## Files
+## Project File Links
 
 1. Notebook Link: [Notebook Link](https://github.com/chrisliti/Module3-Twist-ACLED/blob/main/Module3-Twist-Challenge/Module_3_Twist_Streamlit_EDA_%26_KG.ipynb)
 2. Demo Video: [Demo Video](https://drive.google.com/file/d/1fXr5rR4vnL5oxErvJkhQlQJvND2ZN8CZ/view?usp=sharing) 
