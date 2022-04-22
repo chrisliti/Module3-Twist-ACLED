@@ -5,7 +5,7 @@ This project focuses on analysis of ACLED (Armed Conflict Location Events Data P
 1. Create a web application for ACLED data exploratory data analysis.
 2. Create a web application for a knowledge graph based on ACLED dataset.
 
-**NB**: Reasoning behind creating 2 applications rather than 1, was to improve latency and time taken to reload the interactive independent dashboard sections. An accompanying video for the web app demos can be found on the Google drive [here](https://drive.google.com/drive/folders/1Wb351y-EaWjTnjRCOojVtcNHE4CiUY2e).
+**NB**: Reasoning behind creating 2 applications rather than 1 was to improve latency and time taken to reload the interactive independent dashboard sections. An accompanying video for the web app demos can be found on the Google drive [here](https://drive.google.com/drive/folders/1Wb351y-EaWjTnjRCOojVtcNHE4CiUY2e).
 
 ## Project File Links
 
